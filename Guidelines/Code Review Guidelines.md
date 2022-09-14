@@ -1,5 +1,7 @@
 ![alt text](https://increscotech.com/_next/static/images/logo-dark-692f2e4b1db92d8749d96ba04bcfb42d.svg)
 
+If you have gone through [Pull Request Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Pull%20Request%20Guidelines.md) then read below for the code review guidelines.
+
 # Code Review Guidelines
 
 How do you make that code review great?

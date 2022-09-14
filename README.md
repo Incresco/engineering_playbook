@@ -17,6 +17,7 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 [Naming Conventions](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Naming%20Conventions.md)  
 [Javascript Clean Code](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Javascript%20Clean%20Code.md)  
 [React Component Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/React%20Component%20Guidelines.md)  
+[Pull Request Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Pull%20Request%20Guidelines.md)  
 [Code Review Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Code%20Review%20Guidelines.md)
 
 ### CheatSheet
