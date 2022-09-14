@@ -44,6 +44,12 @@ git reset HEAD~1 //to reset latest commit
 git push origin :refs/tags/v0.1.0 //delete tag
 ```
 
+#### Rename file with case sensitive
+
+```
+git mv -f "Git.md" "git.md"
+```
+
 #### Two origin (Gitlab & github)
 
 ```
