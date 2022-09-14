@@ -1,4 +1,6 @@
-### Git commit guidelines
+![alt text](https://increscotech.com/_next/static/images/logo-dark-692f2e4b1db92d8749d96ba04bcfb42d.svg)
+
+# Git commit guidelines
 
 This project follows [conventional-commits](https://conventionalcommits.org) for commiting code. Specifically, we follow a slight variation on the [Angular commit conventions](https://github.com/angular/angular.js/blob/31fb6fa6db826d90b9268997b5d1e3b8b0ae010a/DEVELOPERS.md#commits), so read that and become familiar. This enables us to automatically generate CHANGELOGs for each package, and calculate semver.
 

@@ -1,4 +1,6 @@
-## Our Values
+![alt text](https://increscotech.com/_next/static/images/logo-dark-692f2e4b1db92d8749d96ba04bcfb42d.svg)
+
+# Our Values
 
 The following values define who we are and the most important behaviours that everyone at Incresco must demonstrate at all times.
 

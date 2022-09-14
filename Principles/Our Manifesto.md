@@ -1,4 +1,6 @@
-## Our Manifesto
+![alt text](https://increscotech.com/_next/static/images/logo-dark-692f2e4b1db92d8749d96ba04bcfb42d.svg)
+
+# Our Manifesto
 
 We aim to foster a culture of openness and transparency, collaboration and continuous development.
 
@@ -22,4 +24,3 @@ We aim to foster a culture of openness and transparency, collaboration and conti
    We will endeavour to celebrate every success with each other. We will also openly discuss failures with reflections on what went well and what could have been better.
 10. ##### Great Onboarding:
     The first 3 weeks for any employee are crucial to develop context and understanding of who we are, our culture, ways of working and ongoing engagements and projects. We will invest in ensuring every new team member gets every support in being set-up well for success.
-

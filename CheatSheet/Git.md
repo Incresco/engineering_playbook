@@ -1,4 +1,6 @@
-## GIT - Commands
+![alt text](https://increscotech.com/_next/static/images/logo-dark-692f2e4b1db92d8749d96ba04bcfb42d.svg)
+
+# GIT - Commands
 
 #### Basics:
 
