@@ -16,7 +16,8 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 [Git Commit Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Git%20Commit%20Guidelines.md)  
 [Naming Conventions](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Naming%20Conventions.md)  
 [Javascript Clean Code](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Javascript%20Clean%20Code.md)  
-[React Component Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/React%20Component%20Guidelines.md)
+[React Component Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/React%20Component%20Guidelines.md)  
+[Code Review Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Code%20Review%20Guidelines.md)
 
 ### CheatSheet
 
@@ -24,4 +25,4 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 
 ### Templates
 
-[Pull Request Template](https://github.com/Incresco/engineering_playbook/blob/main/Templates/PURLL_REQUEST_TEMPLATE.md)
+[Pull Request Template](https://github.com/Incresco/engineering_playbook/blob/main/Templates/PULL_REQUEST_TEMPLATE.md)
