@@ -13,7 +13,8 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 
 ### Guidelines
 
-[Git Commit Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Git%20Commit%20Guidelines.md)
+[Git Commit Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Git%20Commit%20Guidelines.md)  
+[Naming Conventions](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Naming%20Conventions.md)
 
 ### CheatSheet
 
