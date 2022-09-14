@@ -20,6 +20,11 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 [Pull Request Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Pull%20Request%20Guidelines.md)  
 [Code Review Guidelines](https://github.com/Incresco/engineering_playbook/blob/main/Guidelines/Code%20Review%20Guidelines.md)
 
+### Tools
+
+[Editors](https://github.com/Incresco/engineering_playbook/blob/main/Developer%20Tools/Editors.md)  
+[Web Debugging Tools](https://github.com/Incresco/engineering_playbook/blob/main/Developer%20Tools/Web/Debugging%20Tools.md)
+
 ### CheatSheet
 
 [Git](https://github.com/Incresco/engineering_playbook/blob/main/CheatSheet/Git.md)
