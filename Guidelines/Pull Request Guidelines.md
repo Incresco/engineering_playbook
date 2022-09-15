@@ -8,6 +8,7 @@ Prior to submitting a PR, review your code for the following characteristics:
 
 1. Is the code **READABLE**?
 
+   - Do you think the reviewer can review this in 15 mins?
    - Is it well-organized?
    - Are the class, variable, and method names clear and descriptive?
    - Are the formatting, spacing, comments, and indentations consistent?
