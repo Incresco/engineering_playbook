@@ -11,6 +11,11 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 - [Our Manifesto](https://github.com/Incresco/engineering_playbook/blob/main/Principles/Our%20Manifesto.md)
 - [Our Values](https://github.com/Incresco/engineering_playbook/blob/main/Principles/Our%20Values.md)
 
+### Practices and Norms
+
+- [Delivery Standards](https://github.com/Incresco/engineering_playbook/blob/main/Practices%20and%20Norms/Delivery%20Standards.md)
+- [Development Practices](https://github.com/Incresco/engineering_playbook/blob/main/Practices%20and%20Norms/Development%20Practices.md)
+
 ### Guidelines
 
 - General
@@ -40,3 +45,10 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 ### Templates
 
 - [Pull Request Template](https://github.com/Incresco/engineering_playbook/blob/main/Templates/PULL_REQUEST_TEMPLATE.md)
+
+### Manager Playbook
+
+- [1 on 1 Guide](https://github.com/Incresco/engineering_playbook/blob/main/Manager%20Playbook/1%20on%201%20Guide.md)
+- [Being Technical](https://github.com/Incresco/engineering_playbook/blob/main/Manager%20Playbook/Being%20Technical.md)
+- [Building Features](https://github.com/Incresco/engineering_playbook/blob/main/Manager%20Playbook/Building%20Features.md)
+- [Delegation](https://github.com/Incresco/engineering_playbook/blob/main/Manager%20Playbook/Delegation.md)
