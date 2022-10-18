@@ -13,6 +13,7 @@ We are Agile, highly innovative and we want to adhere to best practices so that 
 
 ### Practices and Norms
 
+- [Before Starting Project](https://github.com/Incresco/engineering_playbook/blob/main/Practices%20and%20Norms/Before%20Starting%20Project.md)
 - [Delivery Standards](https://github.com/Incresco/engineering_playbook/blob/main/Practices%20and%20Norms/Delivery%20Standards.md)
 - [Development Practices](https://github.com/Incresco/engineering_playbook/blob/main/Practices%20and%20Norms/Development%20Practices.md)
 
